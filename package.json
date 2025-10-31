@@ -1,9 +1,0 @@
-{
-  "name": "instant-website-proxy",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "api/generate.js",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
-}
